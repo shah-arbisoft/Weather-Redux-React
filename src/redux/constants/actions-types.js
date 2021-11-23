@@ -1,0 +1,8 @@
+export const ActionTypes = {
+    SET_TEXT: "SET_TEXT",
+    MAKE_API_CALL: "MAKE_API_CALL",
+    SET_CITY_OBJECT: "SET_CITY_OBJECT",
+    UNSET_CITY_OBJECT: "UNSET_CITY_OBJECT",
+    MOVE_TO_TOP: "MOVE_TO_TOP"
+
+}
